@@ -1,4 +1,4 @@
-A Java bug detection tool built on Facebook infer.
+A Java bug detection tool developed on top of Facebook Infer.
 
 TACAS25:
 Install using Infer's instruction. 
